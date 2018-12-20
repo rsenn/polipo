@@ -1,5 +1,6 @@
-Polipo Proxy server
-=============
+# Polipo Proxy server
+
+===
 
 Polipo is single-threaded, non blocking caching web proxy that has
 very modest resource needs.  See the file INSTALL for installation
