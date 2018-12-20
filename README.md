@@ -1,6 +1,6 @@
 # Polipo Proxy server
 
-Mirror repository for Docker
+Mirror repository for Docker Hub
 
 ---
 
