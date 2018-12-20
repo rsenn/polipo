@@ -1,5 +1,7 @@
 # Polipo Proxy server
 
+Mirror repository
+
 ---
 
 > Polipo is single-threaded, non blocking caching web proxy that has
