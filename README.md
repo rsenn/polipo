@@ -18,5 +18,4 @@ Further inquiries should be sent to the Polipo-users mailing list:
 Please see the Polipo web page for subscription information.
 
 
-Juliusz Chroboczek
-<jch@pps.univ-paris-diderot.fr>
+[Juliusz Chroboczek](jch@pps.univ-paris-diderot.fr)
