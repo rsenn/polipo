@@ -15,5 +15,6 @@ Current information about Polipo can be found on the Polipo web page,
 
 Please see the Polipo web page for subscription information.
 
+---
 
 [Juliusz Chroboczek](<jch@pps.univ-paris-diderot.fr>)
