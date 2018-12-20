@@ -17,4 +17,4 @@ Please see the Polipo web page for subscription information.
 
 ---
 
-[Juliusz Chroboczek](<jch@pps.univ-paris-diderot.fr>)
+[Juliusz Chroboczek](mailto:jch@pps.univ-paris-diderot.fr)
