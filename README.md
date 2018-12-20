@@ -11,10 +11,6 @@ Current information about Polipo can be found on the Polipo web page,
 
     http://www.pps.univ-paris-diderot.fr/~jch/software/polipo/
 
-Further inquiries should be sent to the Polipo-users mailing list:
-
-    <polipo-users@lists.sourceforge.net>
-
 Please see the Polipo web page for subscription information.
 
 
