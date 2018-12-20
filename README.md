@@ -9,6 +9,8 @@ Mirror repository for Docker
 > instructions.  See the texinfo manual (available as HTML after
 > installation) for more information.
 
+---
+
 Current information about Polipo can be found on the Polipo web page,
 
     http://www.pps.univ-paris-diderot.fr/~jch/software/polipo/
