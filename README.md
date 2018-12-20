@@ -1,6 +1,6 @@
 # Polipo Proxy server
 
-Mirror repository
+Mirror repository for Docker
 
 ---
 
