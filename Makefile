@@ -1,8 +1,8 @@
-PREFIX = /usr/local
+PREFIX = ${prefix}/local
 BINDIR = $(PREFIX)/bin
 MANDIR = $(PREFIX)/man
 INFODIR = $(PREFIX)/info
-LOCAL_ROOT = /usr/share/polipo/www
+LOCAL_ROOT = ${prefix}/share/polipo/www
 DISK_CACHE_ROOT = /var/cache/polipo
 
 # To compile with Unix CC:
